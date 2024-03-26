@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\StarterPackNetCore\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
