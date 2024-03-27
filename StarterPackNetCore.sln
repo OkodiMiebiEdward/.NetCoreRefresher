@@ -5,6 +5,12 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{D505EDF3-F008-4DD7-A2BD-8B10855FC84A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorApp", "RazorApp\RazorApp.csproj", "{C07B80C1-F179-4013-ABC8-A1716B3F671B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{B53AC721-B67A-48A6-AC86-696F0CE81E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{A45B25C4-A861-4542-AEFD-9C6010A6536A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{D505EDF3-F008-4DD7-A2BD-8B10855FC84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D505EDF3-F008-4DD7-A2BD-8B10855FC84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D505EDF3-F008-4DD7-A2BD-8B10855FC84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07B80C1-F179-4013-ABC8-A1716B3F671B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07B80C1-F179-4013-ABC8-A1716B3F671B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07B80C1-F179-4013-ABC8-A1716B3F671B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07B80C1-F179-4013-ABC8-A1716B3F671B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B53AC721-B67A-48A6-AC86-696F0CE81E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B53AC721-B67A-48A6-AC86-696F0CE81E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B53AC721-B67A-48A6-AC86-696F0CE81E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B53AC721-B67A-48A6-AC86-696F0CE81E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45B25C4-A861-4542-AEFD-9C6010A6536A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45B25C4-A861-4542-AEFD-9C6010A6536A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45B25C4-A861-4542-AEFD-9C6010A6536A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45B25C4-A861-4542-AEFD-9C6010A6536A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
