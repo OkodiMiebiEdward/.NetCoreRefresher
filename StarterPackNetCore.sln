@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{D505EDF3-F008-4DD7-A2BD-8B10855FC84A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{D505EDF3-F008-4DD7-A2BD-8B10855FC84A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorApp", "RazorApp\RazorApp.csproj", "{C07B80C1-F179-4013-ABC8-A1716B3F671B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorApp", "RazorApp\RazorApp.csproj", "{C07B80C1-F179-4013-ABC8-A1716B3F671B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{B53AC721-B67A-48A6-AC86-696F0CE81E97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC", "MVC\MVC.csproj", "{B53AC721-B67A-48A6-AC86-696F0CE81E97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{A45B25C4-A861-4542-AEFD-9C6010A6536A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{A45B25C4-A861-4542-AEFD-9C6010A6536A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartWithAuth", "StartWithAuth\StartWithAuth.csproj", "{5B0F7F5D-A4A4-4A48-9B6F-8F7889E12E58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A45B25C4-A861-4542-AEFD-9C6010A6536A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A45B25C4-A861-4542-AEFD-9C6010A6536A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A45B25C4-A861-4542-AEFD-9C6010A6536A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B0F7F5D-A4A4-4A48-9B6F-8F7889E12E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0F7F5D-A4A4-4A48-9B6F-8F7889E12E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0F7F5D-A4A4-4A48-9B6F-8F7889E12E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0F7F5D-A4A4-4A48-9B6F-8F7889E12E58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
